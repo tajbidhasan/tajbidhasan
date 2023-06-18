@@ -1,8 +1,9 @@
-[![MasterHead](https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg )](https://github.com/tajbidhasan)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://github.com/tajbidhasan)
 
 <h1 align="center">Hi 👋, I'm Tajbid Hasan</h1>
 <h3 align="center">Passionate computer science student seeking software development internship/part-time job to pursue a career in tech.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3ohhwrfdoqBUw2DxJK/giphy.gif?cid=ecf05e470ud37bdqe1ul80ctl74hz2nf2ba4ycage9q77518&ep=v1_gifs_search&rid=giphy.gif&ct=g”>
+<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajbidhasan&label=Profile%20views&color=0e75b6&style=flat" alt="tajbidhasan" /> </p>
 
