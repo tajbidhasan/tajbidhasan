@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://github.com/tajbidhasan)
+[![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)](https://github.com/tajbidhasan)
 
 <h1 align="center">Hi 👋, I'm Tajbid Hasan</h1>
 <h3 align="center">Passionate computer science student seeking software development internship/part-time job to pursue a career in tech.</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajbidhasan&label=Profile%20views&color=0e75b6&style=flat" alt="tajbidhasan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tajbidhasan" target="blank"><img src="https://img.shields.io/twitter/follow/tajbidhasan?logo=twitter&style=for-the-badge" alt="tajbidhasan" /></a> </p>
+
 
 - 🌱 I’m currently learning **Django , Flask , FastAPI , Pyramid, Pandas**
 
