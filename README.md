@@ -1,6 +1,6 @@
 [![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)](https://github.com/tajbidhasan)
 
-<h1 align="center">Hi 👋, I'm Tajbid Hasan</h1>
+<h1 align="center">Hi 👋,  I'm Tajbid</h1>
 <h3 align="center">Passionate computer science student seeking software development internship/part-time job to pursue a career in tech.</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
