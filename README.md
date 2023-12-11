@@ -9,9 +9,9 @@
 
 
 
-- 🌱 I’m currently learning **Django , Flask , FastAPI , Pyramid, Pandas**
+- 🌱 I’m currently learning **tensorflow, PyTorch, Docker**
 
-- 👨‍💻 All of my projects are available at [https://tajbidhasan.github.io/PersonalWebsite/](https://tajbidhasan.github.io/PersonalWebsite/)
+- 👨‍💻 All of my projects are available at http://tajbidhasan.com
 
 - 📫 How to reach me **tajbidhasan1111@gmail.com**
 
